@@ -1,0 +1,4 @@
+[submodule "branch2"]
+	path = branch2
+	url = https://github.com/sandorex/test-repo.git
+	branch = branch2
